@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32059
     wikipedia: http://en.wikipedia.org/wiki/Max_Pemberton
 description: Published in London under the title of "War and the Woman."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42763#Swords-ReluctantWar-and-The-Woman
 gutenberg_issued: '2013-05-22'
 gutenberg_type: Text
 identifiers:
